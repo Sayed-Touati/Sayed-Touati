@@ -35,3 +35,35 @@ I'm always learning, improving my craft, and building projects that help me turn
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,postman,vercel" />
 </p>
+
+---
+
+---
+
+## Featured Projects
+
+### MediBook
+A full-stack healthcare appointment platform built with the MERN stack.
+
+- Designed multi-role authentication and authorization
+- Built appointment scheduling and management workflows
+- Developed RESTful backend APIs for users, doctors, and appointments
+- Integrated a voice AI assistant for natural appointment scheduling
+- Added payment workflows with Stripe
+- Deployed the platform using Vercel and Render
+
+### HireReady *(In Progress)*
+An AI-powered job interview preparation platform.
+
+- Helps users prepare for job interviews through interactive AI conversations
+- Supports voice-based mock interviews and interview practice sessions
+- Allows users to schedule and prepare for interview scenarios
+- Focuses on improving confidence, communication, and readiness before real interviews
+- Built with a modern TypeScript-based stack
+
+### E-Plant Shopping
+A React e-commerce interface for exploring shopping flows and frontend state management.
+
+- Built responsive shopping UI components
+- Practiced product listing and cart-style interactions
+- Focused on clean frontend structure and user experience
