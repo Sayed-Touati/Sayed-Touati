@@ -111,6 +111,26 @@ I'm always learning, improving my craft, and building projects that help me turn
       </ul>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">Generation Iron</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Domain-Fitness-F97316?style=for-the-badge" />
+      </p>
+      <p>
+        A mobile workout tracking app designed to help users plan workouts, track exercises, and follow their fitness progress over time.
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,supabase" height="28" />
+        <img src="./assets/expo-logo.png" height="28" />
+      </p>
+      <ul>
+        <li>Tracks workouts, exercises, and training history</li>
+        <li>Designed for gym-focused training with support for broader workouts</li>
+        <li>Plans progress tracking and performance insights over time</li>
+        <li>Future roadmap includes community features and AI-powered assistance</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">More Projects</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Always%20Building-111827?style=for-the-badge" />
