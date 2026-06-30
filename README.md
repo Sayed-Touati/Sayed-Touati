@@ -43,17 +43,24 @@ I'm always learning, improving my craft, and building projects that help me turn
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">MediBook</h3>
+      <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="./assets/medibook-logo.png" width="30" />
+      </td>
+      <td>
+        <h3>MediBook</h3>
+      </td>
+    </tr>
+  </table>
+</div>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-Full--Stack-3B82F6?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Stack-MERN-111827?style=for-the-badge" />
       </p>
       <p>
         A full-stack healthcare appointment platform designed to simplify scheduling, user management, and medical service workflows.
-      </p>
-      <p>
-        <strong>Tools:</strong> React, Node.js, Express, MongoDB, JWT, Stripe, Vapi, Vercel, Render
       </p>
       <ul>
         <li>Multi-role authentication and authorization</li>
@@ -63,17 +70,16 @@ I'm always learning, improving my craft, and building projects that help me turn
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">HireReady</h3>
+      <h3 align="center">
+        <img src="./assets/hireready-logo.png" width="30" />
+        HireReady
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-AI%20Platform-8B5CF6?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=for-the-badge" />
       </p>
       <p>
         An AI-powered interview preparation platform designed to help users practice, schedule, and improve their readiness for job interviews.
-      </p>
-      <p>
-        <strong>Tools:</strong> TypeScript, React, AI APIs, Voice AI, Scheduling flows
       </p>
       <ul>
         <li>Interactive AI interview preparation</li>
@@ -85,37 +91,34 @@ I'm always learning, improving my craft, and building projects that help me turn
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">E-Plant Shopping</h3>
+      <h3 align="center">
+        <img src="./assets/e-plant-shopping-logo.png" width="30" />
+        E-Plant Shopping
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-Frontend-06B6D4?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Stack-React-61DAFB?style=for-the-badge" />
       </p>
       <p>
         A React e-commerce interface built to explore product browsing, shopping flows, responsive UI, and frontend state management.
       </p>
-      <p>
-        <strong>Tools:</strong> React, JavaScript, HTML, CSS, responsive design
-      </p>
       <ul>
-        <li>Responsive shopping interface</li>
-        <li>Product listing and cart-style interactions</li>
-        <li>Clean component structure</li>
-        <li>Frontend state management practice</li>
+        <li>Browse plant products by category and type</li>
+        <li>Add products to cart-style shopping flows</li>
+        <li>Display product prices and shopping details</li>
+        <li>Practice clean frontend structure and responsive UI</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">More Projects</h3>
+      <h3 align="center">
+        More Projects
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Always%20Building-111827?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-Learning%20%26%20Experiments-6366F1?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Stack-Mixed-64748B?style=for-the-badge" />
       </p>
       <p>
         I’m continuously building and improving projects around full-stack development, AI applications, backend systems, and practical software products.
-      </p>
-      <p>
-        <strong>Tools:</strong> MERN stack, TypeScript, Python, GitHub Actions, cloud deployment
       </p>
       <ul>
         <li>MERN stack applications</li>
