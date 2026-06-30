@@ -82,10 +82,10 @@ I'm always learning, improving my craft, and building projects that help me turn
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs" height="28" />
 </p>
       <ul>
-        <li>Interactive AI interview preparation</li>
-        <li>Voice-based mock interview sessions</li>
-        <li>Interview scheduling and preparation workflows</li>
-        <li>Designed to improve confidence and communication</li>
+        <li>Generates interview practice sessions using AI</li>
+        <li>Supports voice-based mock interviews with Vapi</li>
+        <li>Uses Firebase for authentication and data storage</li>
+        <li>Creates feedback after interview sessions</li>
       </ul>
     </td>
   </tr>
