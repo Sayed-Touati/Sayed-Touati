@@ -51,11 +51,15 @@ I'm always learning, improving my craft, and building projects that help me turn
       </p>
       <p>
         A full-stack healthcare appointment platform designed to simplify scheduling, user management, and medical service workflows.
-      </p>
-     <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" height="28" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vapi-111827?style=flat" />
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="28" />
+  <img src="./assets/shadcn-logo.png" height="28" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,vercel" height="28" />
+  <img src="./assets/render-logo.png" height="28" />
+  <img src="./assets/aws-s3-logo.jpg" height="28" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="28" />
+  <img src="./assets/stripe-logo.png" height="28" />
+  <img src="./assets/vapi-logo.png" height="28" />
 </p>
       <ul>
         <li>Multi-role authentication and authorization</li>
