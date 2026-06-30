@@ -19,3 +19,11 @@
 </p>
 
 ---
+
+## About Me
+
+I'm a Full-Stack Developer who enjoys building clean, useful, and scalable web applications.
+
+I work mainly with the MERN stack, and I'm interested in creating software that combines solid engineering, good user experience, and practical AI-powered features.
+
+I'm always learning, improving my craft, and building projects that help me turn ideas into real products.
