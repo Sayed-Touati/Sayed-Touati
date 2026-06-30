@@ -52,9 +52,11 @@ I'm always learning, improving my craft, and building projects that help me turn
       <p>
         A full-stack healthcare appointment platform designed to simplify scheduling, user management, and medical service workflows.
       </p>
-      <p>
-        <strong>Tools:</strong> React, Node.js, Express, MongoDB, JWT, Stripe, Vapi, Vercel, Render
-      </p>
+     <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" height="28" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vapi-111827?style=flat" />
+</p>
       <ul>
         <li>Multi-role authentication and authorization</li>
         <li>Appointment scheduling and management workflows</li>
@@ -72,9 +74,9 @@ I'm always learning, improving my craft, and building projects that help me turn
       <p>
         An AI-powered interview preparation platform designed to help users practice, schedule, and improve their readiness for job interviews.
       </p>
-      <p>
-        <strong>Tools:</strong> TypeScript, React, AI APIs, Voice AI, Scheduling flows
-      </p>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs" height="28" />
+</p>
       <ul>
         <li>Interactive AI interview preparation</li>
         <li>Voice-based mock interview sessions</li>
@@ -94,9 +96,9 @@ I'm always learning, improving my craft, and building projects that help me turn
       <p>
         A React e-commerce interface built to explore product browsing, shopping flows, responsive UI, and frontend state management.
       </p>
-      <p>
-        <strong>Tools:</strong> React, JavaScript, HTML, CSS, responsive design
-      </p>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="28" />
+</p>
       <ul>
         <li>Responsive shopping interface</li>
         <li>Product listing and cart-style interactions</li>
@@ -114,9 +116,9 @@ I'm always learning, improving my craft, and building projects that help me turn
       <p>
         I’m continuously building and improving projects around full-stack development, AI applications, backend systems, and practical software products.
       </p>
-      <p>
-        <strong>Tools:</strong> MERN stack, TypeScript, Python, GitHub Actions, cloud deployment
-      </p>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,git,github" height="28" />
+</p>
       <ul>
         <li>MERN stack applications</li>
         <li>AI-powered features</li>
