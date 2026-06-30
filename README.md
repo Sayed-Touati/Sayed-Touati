@@ -79,7 +79,9 @@ I'm always learning, improving my craft, and building projects that help me turn
         An AI-powered interview preparation platform designed to help users practice, schedule, and improve their readiness for job interviews.
       </p>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs" height="28" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase" height="28" />
+  <img src="./assets/gemini-logo.jpg" height="28" />
+  <img src="./assets/vapi-logo.png" height="28" />
 </p>
       <ul>
         <li>Generates interview practice sessions using AI</li>
