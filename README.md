@@ -71,9 +71,9 @@ I'm always learning, improving my craft, and building projects that help me turn
     <td width="50%" valign="top">
       <h3 align="center">HireReady</h3>
       <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-AI%20Interview%20Prep-7C3AED?style=for-the-badge" />
-</p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Domain-AI%20Interview%20Prep-7C3AED?style=for-the-badge" />
+      </p>
       <p>
         An AI-powered interview preparation platform designed to help users practice, schedule, and improve their readiness for job interviews.
       </p>
@@ -130,26 +130,28 @@ I'm always learning, improving my craft, and building projects that help me turn
         <li>Future roadmap includes community features and AI-powered assistance</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">More Projects</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Always%20Building-111827?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Domain-Experiments-6366F1?style=for-the-badge" />
-      </p>
-      <p>
-        I’m continuously building and improving projects around full-stack development, AI applications, backend systems, and practical software products.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,git,github" height="28" />
-      </p>
-      <ul>
-        <li>MERN stack applications</li>
-        <li>AI-powered features</li>
-        <li>Backend APIs and authentication systems</li>
-        <li>Cloud deployment and CI/CD workflows</li>
-      </ul>
-    </td>
   </tr>
+  <tr>
+  <td colspan="2" valign="top">
+    <h3 align="center">More Projects</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Status-Always%20Building-111827?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Domain-Future%20Tech-6366F1?style=for-the-badge" />
+    </p>
+    <p>
+      I’m continuously building and improving projects around full-stack development, AI applications, backend systems, embedded systems, and practical software products.
+    </p>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,raspberrypi,arduino,cpp,linux,docker,githubactions" height="28" />
+    </p>
+    <ul>
+      <li>Exploring AI engineering, LLM-powered applications, and intelligent software workflows</li>
+      <li>Building stronger backend systems with cleaner architecture and scalable foundations</li>
+      <li>Developing interest in embedded systems, hardware-connected software, and low-level programming</li>
+      <li>Continuously experimenting with tools, ideas, and products that solve real problems</li>
+    </ul>
+  </td>
+</tr>
 </table>
 
 ---
