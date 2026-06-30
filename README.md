@@ -38,8 +38,6 @@ I'm always learning, improving my craft, and building projects that help me turn
 
 ---
 
----
-
 ## Featured Projects
 
 ### MediBook
@@ -67,3 +65,18 @@ A React e-commerce interface for exploring shopping flows and frontend state man
 - Built responsive shopping UI components
 - Practiced product listing and cart-style interactions
 - Focused on clean frontend structure and user experience
+
+---
+
+## Currently Exploring
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Architecture;Production-ready+Applications;Cloud+Deployment+%26+CI%2FCD;AI+%26+LLM-powered+Features;Clean+%26+Scalable+Engineering;Embedded+Systems" alt="Currently Exploring" />
+</p>
+
+- Building stronger foundations in **advanced backend architecture**
+- Learning how to design **production-ready applications**, beyond just one stack
+- Improving my understanding of **cloud deployment**, **CI/CD workflows**, and delivery pipelines
+- Exploring **AI-powered features**, **LLMs**, and how intelligent systems can improve real products
+- Practicing **clean, scalable, and maintainable software engineering**
+- Developing long-term interest in **embedded systems** and software that connects with the physical world
