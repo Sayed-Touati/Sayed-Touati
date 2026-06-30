@@ -30,6 +30,8 @@ I'm always learning, improving my craft, and building projects that help me turn
 
 ---
 
+## Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,postman,vercel" />
 </p>
