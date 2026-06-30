@@ -40,31 +40,78 @@ I'm always learning, improving my craft, and building projects that help me turn
 
 ## Featured Projects
 
-### MediBook
-A full-stack healthcare appointment platform built with the MERN stack.
-
-- Designed multi-role authentication and authorization
-- Built appointment scheduling and management workflows
-- Developed RESTful backend APIs for users, doctors, and appointments
-- Integrated a voice AI assistant for natural appointment scheduling
-- Added payment workflows with Stripe
-- Deployed the platform using Vercel and Render
-
-### HireReady *(In Progress)*
-An AI-powered job interview preparation platform.
-
-- Helps users prepare for job interviews through interactive AI conversations
-- Supports voice-based mock interviews and interview practice sessions
-- Allows users to schedule and prepare for interview scenarios
-- Focuses on improving confidence, communication, and readiness before real interviews
-- Built with a modern TypeScript-based stack
-
-### E-Plant Shopping
-A React e-commerce interface for exploring shopping flows and frontend state management.
-
-- Built responsive shopping UI components
-- Practiced product listing and cart-style interactions
-- Focused on clean frontend structure and user experience
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MediBook</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Stack-MERN-3B82F6?style=for-the-badge" />
+      </p>
+      <p>
+        A full-stack healthcare appointment platform designed to simplify appointment scheduling, user management, and medical service workflows.
+      </p>
+      <ul>
+        <li>Multi-role authentication and authorization</li>
+        <li>Appointment scheduling and management workflows</li>
+        <li>RESTful APIs for users, doctors, and appointments</li>
+        <li>Voice AI assistant for natural appointment scheduling</li>
+        <li>Stripe payment integration</li>
+        <li>Deployed with Vercel and Render</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">HireReady</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Focus-AI%20Interviews-8B5CF6?style=for-the-badge" />
+      </p>
+      <p>
+        An AI-powered job interview preparation platform focused on helping users practice, schedule, and improve their interview readiness.
+      </p>
+      <ul>
+        <li>Interactive AI interview preparation</li>
+        <li>Voice-based mock interview sessions</li>
+        <li>Interview scheduling and preparation flows</li>
+        <li>Designed to improve confidence and communication</li>
+        <li>Built with a modern TypeScript-based stack</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">E-Plant Shopping</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Focus-Frontend-06B6D4?style=for-the-badge" />
+      </p>
+      <p>
+        A React e-commerce interface built to explore product browsing, shopping flows, responsive UI, and frontend state management.
+      </p>
+      <ul>
+        <li>Responsive shopping interface</li>
+        <li>Product listing and cart-style interactions</li>
+        <li>Clean component structure</li>
+        <li>Frontend state management practice</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">More Projects</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Always-Building-111827?style=for-the-badge" />
+      </p>
+      <p>
+        I’m continuously building and improving projects around full-stack development, AI-assisted applications, backend systems, and practical software products.
+      </p>
+      <ul>
+        <li>MERN stack applications</li>
+        <li>AI-powered features</li>
+        <li>Backend APIs and authentication systems</li>
+        <li>Cloud deployment and CI/CD workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
