@@ -46,21 +46,21 @@ I'm always learning, improving my craft, and building projects that help me turn
       <h3 align="center">MediBook</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-Full--Stack-3B82F6?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Stack-MERN-111827?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Domain-Healthcare-0EA5E9?style=for-the-badge" />
       </p>
       <p>
         A full-stack healthcare appointment platform designed to simplify scheduling, user management, and medical service workflows.
+      </p>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="28" />
-  <img src="./assets/shadcn-logo.png" height="28" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,vercel" height="28" />
-  <img src="./assets/render-logo.png" height="28" />
-  <img src="./assets/aws-s3-logo.jpg" height="28" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="28" />
-  <img src="./assets/stripe-logo.png" height="28" />
-  <img src="./assets/vapi-logo.png" height="28" />
-</p>
+        <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="28" />
+        <img src="./assets/shadcn-logo.png" height="28" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,vercel" height="28" />
+        <img src="./assets/render-logo.png" height="28" />
+        <img src="./assets/aws-s3-logo.jpg" height="28" />
+        <img src="https://skillicons.dev/icons?i=githubactions" height="28" />
+        <img src="./assets/stripe-logo.png" height="28" />
+        <img src="./assets/vapi-logo.png" height="28" />
+      </p>
       <ul>
         <li>Multi-role authentication and authorization</li>
         <li>Appointment scheduling and management workflows</li>
@@ -71,18 +71,17 @@ I'm always learning, improving my craft, and building projects that help me turn
     <td width="50%" valign="top">
       <h3 align="center">HireReady</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-AI%20Platform-8B5CF6?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=for-the-badge" />
-      </p>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-AI%20Interview%20Prep-7C3AED?style=for-the-badge" />
+</p>
       <p>
         An AI-powered interview preparation platform designed to help users practice, schedule, and improve their readiness for job interviews.
       </p>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase" height="28" />
-  <img src="./assets/gemini-logo.jpg" height="28" />
-  <img src="./assets/vapi-logo.png" height="28" />
-</p>
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase" height="28" />
+        <img src="./assets/gemini-logo.jpg" height="28" />
+        <img src="./assets/vapi-logo.png" height="28" />
+      </p>
       <ul>
         <li>Generates interview practice sessions using AI</li>
         <li>Supports voice-based mock interviews with Vapi</li>
@@ -96,15 +95,14 @@ I'm always learning, improving my craft, and building projects that help me turn
       <h3 align="center">E-Plant Shopping</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-Frontend-06B6D4?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Stack-React-61DAFB?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Domain-E--Commerce-14B8A6?style=for-the-badge" />
       </p>
       <p>
         A React e-commerce interface built to explore product browsing, shopping flows, responsive UI, and frontend state management.
       </p>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="28" />
-</p>
+        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="28" />
+      </p>
       <ul>
         <li>Responsive shopping interface</li>
         <li>Product listing and cart-style interactions</li>
@@ -116,15 +114,14 @@ I'm always learning, improving my craft, and building projects that help me turn
       <h3 align="center">More Projects</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Always%20Building-111827?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Type-Learning%20%26%20Experiments-6366F1?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Stack-Mixed-64748B?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Domain-Experiments-6366F1?style=for-the-badge" />
       </p>
       <p>
         I’m continuously building and improving projects around full-stack development, AI applications, backend systems, and practical software products.
       </p>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,git,github" height="28" />
-</p>
+        <img src="https://skillicons.dev/icons?i=js,ts,python,git,github" height="28" />
+      </p>
       <ul>
         <li>MERN stack applications</li>
         <li>AI-powered features</li>
