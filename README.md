@@ -33,7 +33,9 @@ I'm always learning, improving my craft, and building projects that help me turn
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend Stack" />
+  <img src="./assets/expo-logo.png" height="48" alt="Expo" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,supabase,firebase,vercel,aws,githubactions,git" alt="Backend and Tools Stack" />
 </p>
 
 ---
